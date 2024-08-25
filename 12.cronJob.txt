@@ -1,0 +1,5 @@
+#open the corntab in tmp , will save it if all the syntax checks out
+~ corntab -e
+#  m h dom mon dow command		   # 0,7 sunday
+~ 30 1 *   *   2   /usr/bin/local/script   #using fully qualified command  
+~ sudo corntab -e -u [usr]	           #run a cronjob for a specific usr

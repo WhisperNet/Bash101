@@ -1,0 +1,8 @@
+1) Learn shell scripting in a interactive way:
+	https://www.learnshell.org/
+2) Debug and get the best practices suggestion for your scripts:
+	https://www.shellcheck.net/
+3) Practice shell scripting:
+	https://www.hackerrank.com/domains/shell
+4) Youtube playlist:
+	https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w

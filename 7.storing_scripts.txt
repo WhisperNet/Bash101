@@ -1,0 +1,12 @@
+The ideal dir for storing script is /usr/local/bin
+By simply moving the script in this dir the script can be called just like
+a command .
+
+~ mv script.sh /usr/local/bin/script
+~ sudo chown root:root /usr/local/bin/script  #Writebale By only root
+~ script 
+
+how does the os know where to find the script?
+The PATH environment varibales holds a list of location to find a script.
+And/usr/local/bin is one the location stored in the PATH to look for a script  
+So by default it will try to find the script in the /usr/local/bin dir.
